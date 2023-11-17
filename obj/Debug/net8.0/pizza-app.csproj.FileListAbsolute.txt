@@ -28,3 +28,4 @@
 /Users/hramonp/Documents/Programming Projects/C#/pizza-app/pizza-app/obj/Debug/net8.0/pizza-app.pdb
 /Users/hramonp/Documents/Programming Projects/C#/pizza-app/pizza-app/obj/Debug/net8.0/pizza-app.genruntimeconfig.cache
 /Users/hramonp/Documents/Programming Projects/C#/pizza-app/pizza-app/obj/Debug/net8.0/ref/pizza-app.dll
+/Users/hramonp/Documents/Programming Projects/C#/pizza-app/pizza-app/obj/Debug/net8.0/pizza-app.sourcelink.json

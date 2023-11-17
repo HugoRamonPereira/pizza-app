@@ -20,3 +20,23 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.mainText {
+  padding: 10px 20px;
+}
+
+.mainTitle {
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.mainSubtitle {
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.mainImage {
+  border-radius: 20px;
+  filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.3));
+  margin: 20px;
+}
