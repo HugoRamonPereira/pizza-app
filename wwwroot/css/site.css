@@ -14,7 +14,6 @@ html {
 
 html {
   position: relative;
-  min-height: 100%;
 }
 
 body {
@@ -27,22 +26,22 @@ body {
 
 .mainTitle {
   font-weight: 400;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
 }
 
 .mainSubtitle {
   font-weight: 300;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
 }
 
 .inputTitle {
   font-weight: 300;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
 }
 
 .btnTitle {
   font-weight: 300;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
 }
 
 .mainImage {
@@ -52,6 +51,7 @@ body {
 }
 
 .smallText {
+  font-weight: 200;
   text-align: right;
   color: grey;
 }
